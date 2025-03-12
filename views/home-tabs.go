@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 	"time"
-	"to-do-app/internal/ui/components"
+	"todo-app/internal/ui/components"
 
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/container"

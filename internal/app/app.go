@@ -2,7 +2,7 @@ package app
 
 import (
 	"image/color"
-	"to-do-app/views"
+	"todo-app/views"
 
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/app"

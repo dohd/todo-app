@@ -1,7 +1,7 @@
 package main
 
 import (
-	"to-do-app/internal/app"
+	"todo-app/internal/app"
 )
 
 func main() {
